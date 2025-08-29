@@ -68,7 +68,8 @@ The goal is to clean, transform, and model the data to create **KPIs and interac
 ---
 
 ## 📸 Screenshots
-*(Add exported PNGs of your Power BI dashboards here)*
+<img width="1148" height="645" alt="daashboard" src="https://github.com/user-attachments/assets/64963a97-8d6d-462a-9cd5-773d75d24bd6" />
+
 
 ---
 
